@@ -1,0 +1,126 @@
+Codes,Meaning – NLSS
+0,Success.
+1,Error.
+2,Syntax error
+3,The file is incorrectly formatted.
+4,The file does not exist.
+5,Non-existent command.
+6,Attempt to divide by zero.
+7,Failed to edit or open file or folder due to lack of permissions.
+8,Language files not found or invalid.
+9,Device wasn't found.
+10,No HID device was found.
+11,Failed to connect to the Internet.
+12,No space left.
+13,Software was stopped by the user.
+14,Permission error.
+15,Amount of energy needed is not available.
+16,Incompatible OS.
+17,Invalid or corrupted file signature.
+18,Unresolved dependency.
+19,Timeout.
+20,Insufficient RAM.
+21,Incorrect CPU architecture.
+22,Wrong password.
+23,Unauthorized user.
+24,Too long input.
+25,Invalid API key.
+26,Rendering failure.
+27,Resolution not supported.
+28,Incompatible video driver.
+29,Font missing.
+30,Two programs are trying to use the same memory address.
+31,Scheduled task failed.
+32,Network port blocked.
+33,Incompatible protocol.
+34,DNS error.
+35,Data stream interrupted.
+36,Mount point conflict.
+37,Virtualization not supported.
+38,Read-only media.
+39,Virtualization disabled.
+40,Unofficial modification of an executable detected.
+41,Expired license.
+42,Expired certificate.
+43,Checksum mismatch.
+44,Entering malware protection protocol.
+45,Driver crash.
+46,Missing driver.
+47,The server is in maintenance.
+48,Connection refused by the host.
+49,Hardware overheating detected.
+50,Battery critically low.
+51,Registry key not found.
+52,File is being used by another process.
+53,Server connection failure.
+54,Encryption error.
+55,Decryption failure.
+56,Invalid character.
+57,Kernel panic.
+58,Memory dump initiated due to critical failure.
+59,Failed to write memory dump to disk.
+60,Directory not empty.
+61,Disk quota exceeded.
+62,Resource temporarily unavailable.
+63,File I/O error.
+64,Corrupted system registry value.
+65,Paused the program to fix the system registry.
+67,Connection refused by peer.
+68,Communication protocol not supported.
+69,Peripheral failure.
+70,Biometric authentication failed.
+71,Sandbox violation detected.
+72,System shutdown initiated due to error.
+73,Critical error.
+74,Thread or process termination failed.
+75,Attempt to access unauthorized URL.
+76,Secure boot is active.
+77,Secure boot isn't available.
+78,Malware detected!!!
+79,Privilege escalation attempt blocked.
+80,"Unauthorized digital signature, certificate or license."
+81,Critical voltage drop detected.
+82,"Fatal system integrity loss, entering system recovery mode. Entering CLI."
+83,Geographical restriction (Geo-blocking)
+84,Virtual machine escape attempt.
+85,AI error.
+86,UI error due to partial process delay.
+87,Data corruption in transit.
+88,Error accessing NLSS repository.
+89,Suspect metadata.
+90,Dependency conflict.
+91,Update interrupted.
+92,File not found.
+93,Private Use Areas (PUA)
+94,Private Use Areas (PUA)
+95,Private Use Areas (PUA)
+96,Private Use Areas (PUA)
+97,Private Use Areas (PUA)
+98,Private Use Areas (PUA)
+99,Private Use Areas (PUA)
+100,Private Use Areas (PUA)
+101,Private Use Areas (PUA)
+102,Private Use Areas (PUA)
+103,Private Use Areas (PUA)
+104,Private Use Areas (PUA)
+105,Private Use Areas (PUA)
+106,Private Use Areas (PUA)
+107,Private Use Areas (PUA)
+108,Private Use Areas (PUA)
+109,Private Use Areas (PUA)
+110,Private Use Areas (PUA)
+111,Private Use Areas (PUA)
+112,Private Use Areas (PUA)
+113,Private Use Areas (PUA)
+114,Private Use Areas (PUA)
+115,Private Use Areas (PUA)
+116,Private Use Areas (PUA)
+117,Private Use Areas (PUA)
+118,Private Use Areas (PUA)
+119,Private Use Areas (PUA)
+120,Private Use Areas (PUA)
+121,Private Use Areas (PUA)
+122,Private Use Areas (PUA)
+123,Private Use Areas (PUA)
+124,Private Use Areas (PUA)
+125,Private Use Areas (PUA)
