@@ -1,13 +1,3 @@
-Name,Code
-,
- ,A1.6
-Android 2.0 / 2.1 - Eclair,A2.0
-Android 2.2 - Froyo,A2.2
-Android 2.3 - Gingerbread,A2.3
-Android 3.0 / 3.2 - Honeycomb,A3.0
-Android 4.0 - Ice Cream Sandwich,A4.0
-Android 4.1 / 4.3 - Jelly Bean,A4.1
-Android 4.4 - KitKat,A4.4
 Android 5.0 / 5.1 - Lollipop,A5.0
 Android 6.0 - Marshmallow,A6.0
 Android 7.0 / 7.1 - Nougat,A7.0
@@ -22,7 +12,14 @@ Android 15 - Vanilla Ice Cream,A15
 Android 16 - Baklava,A16
 {
     "Android 1.5 - Cupcake": "A1.5",
-    "Android 1.6 - Donut": "",
+    "Android 1.6 - Donut": "A1.6",
+    "Android 2.0 / 2.1 - Eclair": "A2.0",
+    "Android 2.2 - Froyo": "A2.2",
+    "Android 2.3 - Gingerbread": "A2.3",
+    "Android 3.0 / 3.2 - Honeycomb": "A3.0",
+    "Android 4.0 - Ice Cream Sandwich": "A4.0",
+    "Android 4.1 / 4.3 - Jelly Bean": "A4.1",
+    "Android 4.4 - KitKat": "A4.4",
     "": "",
     "": "",
     "": "",
@@ -30,4 +27,7 @@ Android 16 - Baklava,A16
     "": "",
     "": "",
     "": "",
+    "": "",
+    "": "",
+    
 }
